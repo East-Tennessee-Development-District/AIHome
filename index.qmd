@@ -5,7 +5,7 @@ format: html
 
 This is the Home page for ETDD's AI-related projects
 
-This site is currently a work in progress.
+This site is currently a work in progress. 
 
 ```{=html}
 <a href="./AIPresentations/index.html">Presentations</a>
